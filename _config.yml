@@ -1,0 +1,4 @@
+name: Vertical Penguin
+markdown: redcarpet
+pygments: true
+baseurl: /VerticalPenguin
